@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Lato', sans-serif;
+}
+body{
+    background-color: #256EB0;
+}
+#container{
+    width: 600px;
+    height: 1100px;
+    background-color:#5384B0;
+    margin:100px auto;
+    border-radius: 50px;
+    color: black;
+    box-shadow: 2px 3px 8px black;
+}
+#cabecalho{
+    background-color: #0A5BA3;
+    width: 600px;
+    height: 150px;
+    margin-bottom: 30px;
+    justify-content: center;
+    border-radius: 50px 50px 0px 0px;
+
+}
+#imagem-logo{
+    padding-top: 20px;
+    width:80px;
+    display: inline;
+    margin-left: 50px;
+}
+#nome-usuario{
+    color:white;
+    display: inline;
+    font-size:25px;
+    margin:60px;
+    text-align: center  ;
+}
+.redes-sociais{
+    text-align: center;
+    padding-top: 30px;
+}
+img{
+    width: 150px;
+}
+.nome-da-rede{
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+}
